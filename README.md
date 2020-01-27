@@ -1,6 +1,6 @@
 # Nexonic-issue-tracker
 
-This repository tracks support tickets for Nexonic for followin prduct.
+This repository tracks Nexonic support tickets for following products.
 
 * Nexonic IOS app
 * Nexonic Android app
