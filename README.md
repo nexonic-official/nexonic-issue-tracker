@@ -1,2 +1,9 @@
-# nexonic-issue-tracker
-Track support tickets for nexonic, please specify a product name before opening a support ticket
+# Nexonic-issue-tracker
+
+This repository tracks support tickets for Nexonic for followin prduct.
+
+* Nexonic IOS app
+* Nexonic Android app
+* Nexonic Video capture for JIRA Cloud
+* Nexonic Video capture for JIRA Server
+
